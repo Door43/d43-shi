@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shi:home|Door43 (shi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shi|d43-shi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shi/archive/master.zip|d43-shi.zip]]
+
+**Recent Changes**
+{{changes>ns = shi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shi|Ethnologue data]]
+
